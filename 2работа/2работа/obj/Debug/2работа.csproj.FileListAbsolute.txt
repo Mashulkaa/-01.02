@@ -1,0 +1,11 @@
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\bin\Debug\2работа.exe.config
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\bin\Debug\2работа.exe
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\bin\Debug\2работа.pdb
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\obj\Debug\2работа.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\obj\Debug\2работа.csproj.SuggestedBindingRedirects.cache
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\obj\Debug\_2работа.Properties.Resources.resources
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\obj\Debug\2работа.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\obj\Debug\2работа.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\obj\Debug\2работа.exe
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\obj\Debug\2работа.pdb
+C:\Users\Мария\Desktop\мдк 01.02\2работа\2работа\obj\Debug\MathQuiz.Form1.resources
