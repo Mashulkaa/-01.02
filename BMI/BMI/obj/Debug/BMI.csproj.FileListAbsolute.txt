@@ -1,0 +1,37 @@
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\student\Desktop\Алимурадова 22ис\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\student\Downloads\BMI\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\BMI\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\BMI\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\student\Downloads\BMI\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\azimo\Desktop\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\azimo\Desktop\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\azimo\Desktop\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\azimo\Desktop\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\azimo\Desktop\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\azimo\Desktop\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\azimo\Desktop\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\azimo\Desktop\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\azimo\Desktop\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\azimo\Desktop\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\azimo\Desktop\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\student\Downloads\01.02-main\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\student\Downloads\01.02-main\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\student\Downloads\01.02-main\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\student\Downloads\01.02-main\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\01.02-main\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\01.02-main\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\student\Downloads\01.02-main\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\student\Downloads\01.02-main\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\student\Downloads\01.02-main\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\01.02-main\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\student\Downloads\01.02-main\BMI\BMI\obj\Debug\BMI.pdb
