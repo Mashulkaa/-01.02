@@ -55,23 +55,20 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="..\..\..\..\Desktop\открытка.xaml.cs">
+      <DependentUpon>открытка.xaml</DependentUpon>
+    </Compile>
     <Compile Include="RhombusControl.xaml.cs">
       <DependentUpon>RhombusControl.xaml</DependentUpon>
     </Compile>
-    <Page Include="..\..\..\..\..\Desktop\отк\MainWindow.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-      <Link>MainWindow.xaml</Link>
-    </Page>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="..\..\..\..\..\Desktop\отк\MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
-      <SubType>Code</SubType>
-      <Link>MainWindow.xaml.cs</Link>
-    </Compile>
+    <Page Include="..\..\..\..\Desktop\открытка.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="RhombusControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -114,13 +111,13 @@
     <Resource Include="Assets\8mr.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Assets\нг.jpg" />
+    <Resource Include="Assets\др %281%29.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Assets\detskiy-prazdnik-na-8-marta-1.png" />
+    <Resource Include="Assets\8.jpg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Assets\23.jpg" />
+    <Resource Include="Assets\yu.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Assets\др.jpg" />
