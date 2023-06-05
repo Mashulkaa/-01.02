@@ -1,0 +1,18 @@
+﻿<Window x:Class="Открытка.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Открытка"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:RhombusControl Header="С 8 марта!" Description="С праздником, girls!" ColoredSource="C:\Users\student\Downloads\01.02-main\Открытка\Открытка\Assets\8.jpg.png"   ></local:RhombusControl>
+            <local:RhombusControl Header="С 23 февраля!" Description="С Днем  защитника Отечества!" ColoredSource="/Assets/photo_2023-03-06_14-17-02 (3).jpg"  ></local:RhombusControl>
+            <local:RhombusControl Header="С Новым Годом!" Description="Ура!" ColoredSource="C:\Users\student\Downloads\01.02-main\Открытка\Открытка\Assets\yu.jpg"    ></local:RhombusControl>
+            <local:RhombusControl Header="С Днем Рождения!" Description="С лучшими пожеланиями!" ColoredSource="C:\Users\student\Downloads\01.02-main\Открытка\Открытка\Assets\др.jpg"    ></local:RhombusControl>
+
+        </StackPanel>
+    </Grid>
+</Window>
