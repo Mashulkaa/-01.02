@@ -1,0 +1,19 @@
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\bin\Debug\Rooms lot.exe.config
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\bin\Debug\Rooms lot.exe
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\bin\Debug\Rooms lot.pdb
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\bin\Debug\RoomLibrary.dll
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\bin\Debug\RoomLibrary.pdb
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot.csproj.AssemblyReference.cache
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\MainWindow.g.cs
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\App.g.cs
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot_MarkupCompile.cache
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot_MarkupCompile.lref
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\MainWindow.baml
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot.g.resources
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms_lot.Properties.Resources.resources
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot.csproj.GenerateResource.cache
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot.csproj.CoreCompileInputs.cache
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot.csproj.CopyComplete
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot.exe
+C:\Users\ЬШ\source\repos\Rooms lot\Rooms lot\obj\Debug\Rooms lot.pdb

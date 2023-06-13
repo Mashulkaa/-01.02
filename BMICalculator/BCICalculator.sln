@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCICalculator", "BCICalculator.csproj", "{A6BA5782-7CDE-49E9-A960-40F8732EE734}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BA5782-7CDE-49E9-A960-40F8732EE734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BA5782-7CDE-49E9-A960-40F8732EE734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BA5782-7CDE-49E9-A960-40F8732EE734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BA5782-7CDE-49E9-A960-40F8732EE734}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C72612-413C-4CBF-BFD1-DEAD4D16A517}
+	EndGlobalSection
+EndGlobal
